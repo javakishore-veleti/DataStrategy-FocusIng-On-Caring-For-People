@@ -4,6 +4,7 @@ This repo is focused on business and technology leaders, including CTOs, CIOs, a
 
 For techies and hands-on developers, this repo also provides a reference technology stack with business processes. To make such business processes effective have considered health-care (diagnosis care provider, healthcare plans membership provider), education, and banking (Merchant Banking, Consumer Lending) domains.
 
+### For Strategic Indivicuals
 For a quick preview of your specific industry domain, please refer to the following links:
 
 - [Banking (Consumer Lending and Merchant Banking)](README_Banking_ConsumerLending.md)
@@ -11,6 +12,13 @@ For a quick preview of your specific industry domain, please refer to the follow
 - [Healthcare (Claims Management Focused Healthcare Member Plans Enterprise)](README_HealthCare_Claims_Enterprise.md)
 - [Healthcare (Diagnosis Focused Healthcare Providers)](README_HealthCare_Diagnosis_Provider.md)
 
+### For Techies, Hadn-On Indivicuals, Cloud Engineers, DevOps Engineers, and Data Analysts
+
+For a quick preview of your specific industry domain AWS AI/ML stack, please refer to the following links:
+
+- [Enhancing a People-Centric Data Strategy with AWS AI/ML Stack](README_Cloud_AWS_AI_ML_Stack.md)
+
+### Main Content Of This Data Strategy
 
 # Abstract
 In today's digital landscape, a successful data strategy goes beyond mere analytics and efficiency; it must prioritize the human element, ensuring that data-driven decisions ultimately enhance the lives of customers and employees. 
