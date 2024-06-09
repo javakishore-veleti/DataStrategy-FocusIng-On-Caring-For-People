@@ -12,7 +12,7 @@ This repo provides a reference people-centric data strategy that can be develope
 This reference data strategy is purely for the business imperative of "Focusing On Caring For People"
 
 **NOTE:**
-This data strategy I have created by leveraging my hands-on experiences  in Enterprise Data Management leveraging big data technologies and cloud. The reference model below is a culmination of my continuous research and study of Enterprise Data Management, and it is not taken from any of my job outcomes.
+This data strategy I have created this by leveraging my hands-on experiences  in enterprise data management at a larger scale while working at fortune enterprises, big data technologies, and the cloud. The reference model below is a culmination of my continuous research and study of Enterprise Data Management, and it is not taken from any of my job outcomes.
 
 # Introduction to Data Strategy "Focusing On Caring For People"
 The core of any business is its people - both customers and employees. A Data Strategy that prioritizes caring for people involves leveraging data to create meaningful, personalized experiences and fostering a supportive work environment. This approach not only improves customer satisfaction but also boosts employee engagement and productivity.
