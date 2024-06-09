@@ -1,4 +1,4 @@
-# Crafting a Data Strategy that Focuses on Caring for People Across Various Industry Domains
+# Crafting a Data Strategy that Focuses on Caring for People - Banking (Consumer Lending and Merchant Banking)
 
 This guide explores how a people-centric data strategy can be developed and implemented across different industry domains, such as enterprise focusing on banking specifically in consumer lending and merchant banking.
 
