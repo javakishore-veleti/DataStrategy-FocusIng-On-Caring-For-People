@@ -17,6 +17,8 @@ For a quick preview of your specific industry domain, please refer to the follow
 For a quick preview of your specific industry domain AWS AI/ML stack, please refer to the following links:
 
 - [Enhancing a People-Centric Data Strategy with AWS AI/ML Stack](README_Cloud_AWS_AI_ML_Stack.md)
+- [Enhancing a People-Centric Data Strategy with Azure AI/ML Stack](README_Cloud_Azure_AI_ML_Stack.md)
+- [Enhancing a People-Centric Data Strategy with GCP AI/ML Stack](README_Cloud_GCP_AI_ML_Stack.md)
 
 ### Main Content Of This Data Strategy
 
