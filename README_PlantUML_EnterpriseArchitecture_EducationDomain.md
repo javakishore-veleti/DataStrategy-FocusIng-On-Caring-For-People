@@ -230,15 +230,14 @@ package "Education Domain Architecture" {
     eks -up-> [Discussion Board Service]
 }
 
-' Blue-Green Deployment for Microservices
-package "Blue-Green Deployment" {
+package "Blue-Green Deployment for Microservices" {
     component "Blue Deployment" {
-        ec2 "Instance 1" as blue_instance1
-        ec2 "Instance 2" as blue_instance2
+        rectangle "Blue Instance 1" as blue_instance1
+        rectangle "Blue Instance 2" as blue_instance2
     }
     component "Green Deployment" {
-        ec2 "Instance 1" as green_instance1
-        ec2 "Instance 2" as green_instance2
+        rectangle "Green Instance 1" as green_instance1
+        rectangle "Green Instance 2" as green_instance2
     }
     blue_instance1 -down-> elb
     blue_instance2 -down-> elb
@@ -247,6 +246,7 @@ package "Blue-Green Deployment" {
 }
 
 @enduml
+
 
 ```
 
