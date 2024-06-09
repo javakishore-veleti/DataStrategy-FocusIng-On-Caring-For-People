@@ -7,7 +7,7 @@ For techies and hands-on developers, this repo also provides a reference technol
 # Abstract
 In today's digital landscape, a successful data strategy goes beyond mere analytics and efficiency; it must prioritize the human element, ensuring that data-driven decisions ultimately enhance the lives of customers and employees. 
 
-This repo provides "a reference people-centric data strategy" that can be developed and implemented based on your enterprise needs. 
+This repo provides _"a reference people-centric data strategy"_ that can be developed and implemented based on your enterprise needs. 
 
 This reference data strategy is purely for the business imperative of "Focusing On Caring For People"
 
