@@ -20,6 +20,13 @@ For a quick preview of your specific industry domain AWS AI/ML stack, please ref
 - [Enhancing a People-Centric Data Strategy with Azure AI/ML Stack](README_Cloud_Azure_AI_ML_Stack.md)
 - [Enhancing a People-Centric Data Strategy with GCP AI/ML Stack](README_Cloud_GCP_AI_ML_Stack.md)
 
+Application Architecture With Cloud Native Services:
+
+- [Enhancing a People-Centric Data Strategy with AWS Cloud Native Services for Application Architecture](README_Cloud_AWS_Application_Architecture_Stack.md)
+- [Enhancing a People-Centric Data Strategy with Google Cloud Native Services for Application Architecture](README_Cloud_Azure_Application_Architecture_Stack.md)
+- [Enhancing a People-Centric Data Strategy with Google Cloud Native Services for Application Architecture](README_Cloud_GCP_Application_Architecture_Stack.md)
+
+
 ### Main Content Of This Data Strategy
 
 # Abstract
