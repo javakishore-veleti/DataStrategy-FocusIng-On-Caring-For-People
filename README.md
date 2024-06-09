@@ -4,6 +4,14 @@ This repo is focused on business and technology leaders, including CTOs, CIOs, a
 
 For techies and hands-on developers, this repo also provides a reference technology stack with business processes. To make such business processes effective have considered health-care (diagnosis care provider, healthcare plans membership provider), education, and banking (Merchant Banking, Consumer Lending) domains.
 
+For a quick preview of your specific industry domain, please refer to the following links:
+
+- [Banking (Consumer Lending and Merchant Banking)](README_Banking_ConsumerLending.md)
+- [Education (Indian Administrative Services Educational Institutions)](README_Education_Indian_IAS_Trainer.md)
+- [Healthcare (Claims Management Focused Healthcare Member Plans Enterprise)](README_HealthCare_Claims_Enterprise.md)
+- [Healthcare (Diagnosis Focused Healthcare Providers)](README_HealthCare_Diagnosis_Provider.md)
+
+
 # Abstract
 In today's digital landscape, a successful data strategy goes beyond mere analytics and efficiency; it must prioritize the human element, ensuring that data-driven decisions ultimately enhance the lives of customers and employees. 
 
